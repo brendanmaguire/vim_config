@@ -1,0 +1,45 @@
+[submodule "bundle/fugitive"]
+	path = bundle/fugitive
+	url = http://github.com/tpope/vim-fugitive.git
+[submodule "bundle/snipmate"]
+	path = bundle/snipmate
+	url = http://github.com/msanders/snipmate.vim.git
+[submodule "bundle/git"]
+	path = bundle/git
+	url = http://github.com/tpope/vim-git.git
+[submodule "bundle/supertab"]
+	path = bundle/supertab
+	url = http://github.com/ervandew/supertab.git
+[submodule "bundle/minibufexpl"]
+	path = bundle/minibufexpl
+	url = http://github.com/sontek/minibufexpl.vim.git
+[submodule "bundle/command-t"]
+	path = bundle/command-t
+	url = http://github.com/wincent/Command-T.git
+[submodule "pyflakes-pathogen"]
+	path = pyflakes-pathogen
+	url = http://github.com/mitechie/pyflakes-pathogen.git
+[submodule "bundle/ack"]
+	path = bundle/ack
+	url = http://github.com/mileszs/ack.vim.git
+[submodule "bundle/gundo"]
+	path = bundle/gundo
+	url = http://github.com/sjl/gundo.vim.git
+[submodule "bundle/pydoc"]
+	path = bundle/pydoc
+	url = http://github.com/fs111/pydoc.vim.git
+[submodule "bundle/pep8"]
+	path = bundle/pep8
+	url = http://github.com/vim-scripts/pep8.git
+[submodule "bundle/py.test"]
+	path = bundle/py.test
+	url = http://github.com/alfredodeza/pytest.vim.git
+[submodule "bundle/makegreen"]
+	path = bundle/makegreen
+	url = http://github.com/reinh/vim-makegreen
+[submodule "bundle/tasklist"]
+	path = bundle/tasklist
+	url = http://github.com/vim-scripts/TaskList.vim.git
+[submodule "bundle/ropevim"]
+	path = bundle/ropevim
+	url = http://github.com/sontek/rope-vim.git
